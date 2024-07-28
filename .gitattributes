@@ -1,2 +1,3 @@
+# To manage line endings and file types in a Git repository
 * text=auto
 *.sln text eol=crlf
